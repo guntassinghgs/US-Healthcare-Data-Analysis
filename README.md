@@ -29,5 +29,5 @@ Analysis: Identify time-series trends in admission type and suggest ways to impr
 
 ## Dashboard 
 
-Screenshort of the dashboard: <a href="https://github.com/guntassinghgs/US-Healthcare-Data-Analysis/blob/main/Dashboard%20screenshot.png">Dataset</a>
+Screenshort of the dashboard: <a href="https://github.com/guntassinghgs/US-Healthcare-Data-Analysis/blob/main/Dashboard%20screenshot.png">Dashboard</a>
 
