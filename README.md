@@ -37,8 +37,8 @@ Analysis: Identify time-series trends in admission type and suggest ways to impr
 2) Worked on hypothesis to formulate the direction on analysis.
 3) Performed EDA to understand the trend.
 4) On the basis of hypothesis and EDA, dived deep to bring insights from the data using pivot tables and charts.
-5) Created interactive dashboard in Excel to show the results.
-6) Create powerpoint presentation to present the data and turn them into actionable insights.
+5) Developed an interactive dashboard in Excel to show the results.
+6) Created powerpoint presentation to present the analysis and turn them into actionable insights.
 
 
 ## Dashboard 
@@ -54,6 +54,13 @@ Screenshort of the dashboard: <a href="https://github.com/guntassinghgs/US-Healt
 <a href="https://github.com/guntassinghgs/US-Healthcare-Data-Analysis/blob/main/US%20HEALTHCARE%20ANALYSIS.pptx">Presentation</a>
 	
 
+## Results:
+
+1) Hypertension is the most prevalent condition (22% of total cases), with a higher risk for males (61%). Obesity and diabetes are more common in females, indicating potential lifestyle or metabolic factors.
+2) Blood group distribution shows no major disparities, but certain conditions (e.g., obesity in AB-) show variations.
+3) Emergency admissions drive the highest revenue ($87M) and cost per case ($24,279), while urgent admissions have the lowest average billing.
+4) Cigna and Aetna lead in billing per admission, while Medicare and UnitedHealthcare have lower average costs. Differences suggest variations in coverage policies and patient demographics.
+5) Overall, the data highlights key trends in disease prevalence, gender distribution, and healthcare costs, offering insights for targeted healthcare strategies and resource allocation.
 
 
 
