@@ -30,7 +30,32 @@ Analysis: Identify time-series trends in admission type and suggest ways to impr
 
 <a href="https://github.com/guntassinghgs/US-Healthcare-Data-Analysis/raw/refs/heads/main/Raw%20data%20US%20healthcare.xlsx">Dataset</a>
 
+
+## Process 
+
+1) Performed data cleaning activities to ensure that the data is consistent and reliable.
+2) Worked on hypothesis to formulate the direction on analysis.
+3) Performed EDA to understand the trend.
+4) On the basis of hypothesis and EDA, dived deep to bring insights from the data using pivot tables and charts.
+5) Created interactive dashboard in Excel to show the results.
+6) Create powerpoint presentation to present the data and turn them into actionable insights.
+
+
 ## Dashboard 
 
 Screenshort of the dashboard: <a href="https://github.com/guntassinghgs/US-Healthcare-Data-Analysis/blob/main/Dashboard%20screenshot.png">Dashboard</a>
+
+## Excel File
+
+<a href="https://github.com/guntassinghgs/US-Healthcare-Data-Analysis/blob/main/Case%20Study%20Final.xlsx">Excel file</a>
+
+## PPT
+
+<a href="https://github.com/guntassinghgs/US-Healthcare-Data-Analysis/blob/main/US%20HEALTHCARE%20ANALYSIS.pptx">Presentation</a>
+	
+
+
+
+
+
 
