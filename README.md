@@ -20,3 +20,7 @@ Objective: Identify ways in which hospital can better manage its resources
 Analysis: Identify time-series trends in admission type and suggest ways to improve the workload utilization of the hospital. 
 
 
+## Dataset used 
+
+<a href="https://github.com/guntassinghgs/US-Healthcare-Data-Analysis/blob/main/Raw%20data%20US%20healthcare.csv">Dataset</a>
+
